@@ -33,4 +33,4 @@ You can use this repository as a reference or a starting point for learning more
 •  Wait for your pull request to be reviewed and merged.
 
 ## License
-This repository is licensed under the MIT License.
+This repository is licensed under the Apache-2.0 license.
