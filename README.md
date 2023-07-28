@@ -5,13 +5,13 @@ This repository contains a collection of papers related to Machine Learning Oper
 ## Contents
 The papers are organized into the following categories:
 
-•  MLOps Overview: Papers that provide a general introduction or survey of MLOps concepts, challenges and solutions.
+•  **MLOps Overview**: Papers that provide a general introduction or survey of MLOps concepts, challenges and solutions.
 
-•  MLOps Frameworks: Papers that propose or describe specific frameworks, platforms or tools for implementing MLOps in various scenarios and domains.
+•  **MLOps Frameworks**: Papers that propose or describe specific frameworks, platforms or tools for implementing MLOps in various scenarios and domains.
 
-•  MLOps Techniques: Papers that focus on specific aspects or techniques of MLOps, such as data management, model management, testing, debugging, deployment, monitoring, etc.
+•  **MLOps Techniques**: Papers that focus on specific aspects or techniques of MLOps, such as data management, model management, testing, debugging, deployment, monitoring, etc.
 
-•  MLOps Applications: Papers that demonstrate the application or evaluation of MLOps in real-world use cases or domains, such as healthcare, finance, e-commerce, etc.
+•  **MLOps Applications**: Papers that demonstrate the application or evaluation of MLOps in real-world use cases or domains, such as healthcare, finance, e-commerce, etc.
 
 Each paper is accompanied by a brief summary and a link to the full text. The papers are listed in chronological order within each category.
 
